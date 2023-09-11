@@ -4,5 +4,5 @@ Googler is a simple CLI tool that returns you a bunch of links from google as a 
 
 ### Usage emample
 ```
-googler "How to create a function on golang?"
+googler "How to create a function in golang?"
 ```
